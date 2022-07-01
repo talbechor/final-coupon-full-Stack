@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64349854.css",
+    "main.js": "/static/js/main.95534f51.js",
+    "static/js/787.9cdf5d7c.chunk.js": "/static/js/787.9cdf5d7c.chunk.js",
+    "static/media/couponsHomePic.jpg": "/static/media/couponsHomePic.6c50c6ecfa918743fa19.jpg",
+    "index.html": "/index.html",
+    "main.64349854.css.map": "/static/css/main.64349854.css.map",
+    "main.95534f51.js.map": "/static/js/main.95534f51.js.map",
+    "787.9cdf5d7c.chunk.js.map": "/static/js/787.9cdf5d7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64349854.css",
+    "static/js/main.95534f51.js"
+  ]
+}
